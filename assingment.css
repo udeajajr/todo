@@ -1,0 +1,42 @@
+body {
+    background-color: #153677;
+}
+
+  .delete-btn {
+    background-color: #f44336;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    float: right;
+  }
+   #todo-input{
+    font-size: large;
+   } 
+   h1{
+    color:#fff;
+   }
+   ul{
+    color: #fff;
+   }
+
+   #todo-list li {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .delete-btn {
+    background-color: #f44336;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+#add-todo-btn{
+    background-color: white;
+    font-size: large;
+    box-shadow: whitesmoke;
+}  
